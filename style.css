@@ -26,22 +26,12 @@ figcaption {
   text-align: center;
 }
 
-#featured-property {
- 
+p#featured-property {
+  width: 800px;
+  text-align: center
 }
 
-div {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
+#details {
+  display: block;
 }
 
-div {
-  background-color: blue;
-  text-align: center;
-  width: 25%;
-}
